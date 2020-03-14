@@ -1,0 +1,20 @@
+Laptop Fit_bit E_Lamp
+E_Lamp Wallet Fit_bit
+Fit_bit Firewatch Wallet Smart_Plug PS3 Kindle
+PS3 Firewatch Laptop Fit_bit
+E_Lamp Smart_Plug Firewatch Headphones
+Kindle PS3 Firewatch Headphones
+Firewatch E_Lamp Kindle Fit_bit E_Lamp
+Smart_Plug E_Pen Firewatch PS3 Headphones Laptop 
+Fit_bit Laptop E_Lamp Smart_Plug
+Headphones Wallet E_Lamp PS3 Laptop
+E_Lamp Wallet Kindle Smart_Plug
+Firewatch Wallet Kindle Fit_bit
+E_Pen Wallet E_Lamp
+Laptop E_Pen Firewatch PS3 Fit_bit
+Kindle E_Lamp Laptop Fit_bit Headphones
+PS3 Headphones Smart_Plug E_Pen
+PS3 Firewatch Laptop Fit_bit E_Pen
+E_Pen Laptop Kindle Fit_bit Firewatch
+Smart_Plug Wallet E_Pen PS3 Headphones
+Fit_bit Kindle E_Lamp Smart_Plug

@@ -1,0 +1,20 @@
+E_Lamp Samsung Fit_bit
+Fit_bit Headphones Firewatch
+Samsung E_Pen Headphones Smart_Jack PS3 Firewatch
+Book PS3 Firewatch Headphones
+Television Headphones E_Pen PS3 Fit_bit
+Firewatch Samsung Book Fit_bit
+PS3 Firewatch Television Fit_bit E_Pen
+E_Lamp Smart_Plug Firewatch Headphones Book Pixel3
+Headphones E_Pen Book PS3
+Headphones Pixel3 E_Lamp PS3 Laptop
+PS3 Headphones Smart_Plug E_Pen
+Firewatch E_Pen Book Fit_bit
+E_Lamp Pixel3 Smart_Plug 
+Television E_Pen Firewatch PS3 Fit_bit
+Smart_Plug E_Pen Firewatch PS3 Headphones
+Book Pixel3 PS3 Fit_bit
+Headphones Pixel3 Television Book E_Pen
+Smart_Plug E_Pen Headphones PS3 E_Lamp
+E_Pen Television Book Fit_bit Firewatch
+Laptop PS3 Firewatch Smart_Plug
